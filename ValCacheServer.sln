@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValCacheServerLib", "ValCacheServerLib\ValCacheServerLib.csproj", "{B599D8FC-45E4-43DB-A872-B6489F949F28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValCacheServerHost", "ValCacheServerHost\ValCacheServerHost.csproj", "{9B5357F6-9B6D-4B00-B721-7164AEA88125}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B599D8FC-45E4-43DB-A872-B6489F949F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B599D8FC-45E4-43DB-A872-B6489F949F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B599D8FC-45E4-43DB-A872-B6489F949F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B599D8FC-45E4-43DB-A872-B6489F949F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B5357F6-9B6D-4B00-B721-7164AEA88125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5357F6-9B6D-4B00-B721-7164AEA88125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5357F6-9B6D-4B00-B721-7164AEA88125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5357F6-9B6D-4B00-B721-7164AEA88125}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3056CD44-313E-418C-B6A6-0E2D27DCC558}
+	EndGlobalSection
+EndGlobal
